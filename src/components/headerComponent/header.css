@@ -1,0 +1,11 @@
+nav {
+    position: absolute;
+    top: 25%;
+    right: 15px;
+    border-style: solid;
+  
+    ul li {
+      display: inline;
+    }
+  }
+  
